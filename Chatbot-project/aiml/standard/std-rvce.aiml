@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+<category>
+<pattern>PRINCIPLE RVCE</pattern>
+<template>https://www.rvce.edu.in/principal-rvce</template>
+</category>
+
+<category>
+<pattern>* PRINCIPLE RVCE</pattern>
+<template>https://www.rvce.edu.in/principal-rvce</template>
+</category>
+
+<category>
+<pattern>* PRINCIPLE RVCE *</pattern>
+<template>https://www.rvce.edu.in/principal-rvce</template>
+</category>
+
+
+<category>
+<pattern>ABOUT RVCE</pattern>
+<template>https://www.rvce.edu.in/about-us.</template>
+</category>
+
+
+<category>
+<pattern>* ABOUT RVCE</pattern>
+<template>https://www.rvce.edu.in/about-us.</template>
+</category>
+
+
+<category>
+<pattern>* ABOUT RVCE *</pattern>
+<template>https://www.rvce.edu.in/about-us.</template>
+</category>
+
+
+<category>
+<pattern>KEY EXICUTIVES</pattern>
+<template>https://www.rvce.edu.in/key-executives</template>
+</category>
+
+<category>
+<pattern>* KEY EXICUTIVES</pattern>
+<template>https://www.rvce.edu.in/key-executives</template>
+</category>
+
+<category>
+<pattern>* KEY EXICUTIVES *</pattern>
+<template>https://www.rvce.edu.in/key-executives</template>
+</category>
+
+<category>
+<pattern>KEY EXICUTIVES *</pattern>
+<template>https://www.rvce.edu.in/key-executives</template>
+</category>
+
+<category>
+<pattern>INFRASTRUCTURE</pattern>
+<template>https://www.rvce.edu.in/infra</template>
+</category>
+
+<category>
+<pattern>* INFRASTRUCTURE</pattern>
+<template>https://www.rvce.edu.in/infra</template>
+</category>
+
+<category>
+<pattern>* INFRASTRUCTURE *</pattern>
+<template>https://www.rvce.edu.in/infra</template>
+</category>
+
+<category>
+<pattern>INFRASTRUCTURE *</pattern>
+<template>https://www.rvce.edu.in/infra</template>
+</category>
+
+<category>
+<pattern>ADMISSION</pattern>
+<template>https://www.rvce.edu.in/admission</template>
+</category>
+
+<category>
+<pattern>* ADMISSION</pattern>
+<template>https://www.rvce.edu.in/admission</template>
+</category>
+
+<category>
+<pattern>ADMISSION *</pattern>
+<template>https://www.rvce.edu.in/admission</template>
+</category>
+
+<category>
+<pattern>* ADMISSION *</pattern>
+<template>https://www.rvce.edu.in/admission</template>
+</category>
+
+<category>
+<pattern>DEPARTMENTS</pattern>
+<template>https://rvce.edu.in/rvce-departments</template>
+</category>
+
+<category>
+<pattern>* DEPARTMENTS</pattern>
+<template>https://rvce.edu.in/rvce-departments</template>
+</category>
+
+<category>
+<pattern>DEPARTMENTS *</pattern>
+<template>https://rvce.edu.in/rvce-departments</template>
+</category>
+
+<category>
+<pattern>* DEPARTMENTS *</pattern>
+<template>https://rvce.edu.in/rvce-departments</template>
+</category>
+
+
+<category>
+<pattern>RESEARCH</pattern>
+<template>https://rvce.edu.in/research-at-rvce</template>
+</category>
+
+<category>
+<pattern>* RESEARCH</pattern>
+<template>https://rvce.edu.in/research-at-rvce</template>
+</category>
+
+<category>
+<pattern>* RESEARCH *</pattern>
+<template>https://rvce.edu.in/research-at-rvce</template>
+</category>
+
+<category>
+<pattern>RESEARCH *</pattern>
+<template>https://rvce.edu.in/research-at-rvce</template>
+</category>
+
+<category>
+<pattern>PLACEMENTS</pattern>
+<template>https://www.rvce.edu.in/placement-menu</template>
+</category>
+
+<category>
+<pattern>* PLACEMENTS</pattern>
+<template>https://www.rvce.edu.in/placement-menu</template>
+</category>
+
+<category>
+<pattern>* PLACEMENTS *</pattern>
+<template>https://www.rvce.edu.in/placement-menu</template>
+</category>
+
+<category>
+<pattern>PLACEMENTS *</pattern>
+<template>https://www.rvce.edu.in/placement-menu</template>
+</category>
+
+
+
+<category>
+<pattern>LIBRARY</pattern>
+<template>https://www.rvce.edu.in/library</template>
+</category>
+
+<category>
+<pattern>* LIBRARY</pattern>
+<template>https://www.rvce.edu.in/library</template>
+</category>
+
+<category>
+<pattern>* LIBRARY *</pattern>
+<template>https://www.rvce.edu.in/library</template>
+</category>
+
+<category>
+<pattern>LIBRARY *</pattern>
+<template>https://www.rvce.edu.in/library</template>
+</category>
+
+<category>
+<pattern>NCC-NSS</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>NCC</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>NSS</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>* NCC-NSS *</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>* NCC-NSS</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>NCC-NSS *</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>* NSS</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>* NSS *</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>NSS *</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>NCC *</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>* NCC *</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>* NCC</pattern>
+<template>https://www.rvce.edu.in/ncc-nss</template>
+</category>
+
+<category>
+<pattern>STUDENTS CLUBS</pattern>
+<template>https://rvce.edu.in/rvce-students-clubs-technical-innovative</template>
+</category>
+
+<category>
+<pattern>* STUDENTS CLUBS</pattern>
+<template>https://rvce.edu.in/rvce-students-clubs-technical-innovative</template>
+</category>
+
+<category>
+<pattern>* STUDENTS CLUBS *</pattern>
+<template>https://rvce.edu.in/rvce-students-clubs-technical-innovative</template>
+</category>
+
+<category>
+<pattern>STUDENTS CLUBS *</pattern>
+<template>https://rvce.edu.in/rvce-students-clubs-technical-innovative</template>
+</category>
+
+<category>
+<pattern>* STUDENTS CLUBS *</pattern>
+<template>https://rvce.edu.in/rvce-students-clubs-technical-innovative</template>
+</category>
+
+<category>
+<pattern>* STUDENTS CLUBS</pattern>
+<template>https://rvce.edu.in/rvce-students-clubs-technical-innovative</template>
+</category>
+
+<category>
+<pattern>MEDIA</pattern>
+<template>https://rvce.edu.in/rvce-media</template>
+</category>
+
+<category>
+<pattern>* MEDIA</pattern>
+<template>https://rvce.edu.in/rvce-media</template>
+</category>
+
+<category>
+<pattern>MEDIA *</pattern>
+<template>https://rvce.edu.in/rvce-media</template>
+</category>
+
+<category>
+<pattern>* MEDIA *</pattern>
+<template>https://rvce.edu.in/rvce-media</template>
+</category>
+
+<category>
+<pattern>* MEDIA</pattern>
+<template>https://rvce.edu.in/rvce-media</template>
+</category>
+
+<category>
+<pattern>SPORTS</pattern>
+<template>https://rvce.edu.in/sp-achievements</template>
+</category>
+
+<category>
+<pattern>* SPORTS</pattern>
+<template>https://rvce.edu.in/sp-achievements</template>
+</category>
+
+<category>
+<pattern>SPORTS *</pattern>
+<template>https://rvce.edu.in/sp-achievements</template>
+</category>
+
+<category>
+<pattern>* SPORTS *</pattern>
+<template>https://rvce.edu.in/sp-achievements</template>
+</category>
+
+<category>
+<pattern>CULTURAL</pattern>
+<template>https://rvce.edu.in/extra-curricular</template>
+</category>
+
+
+<category>
+<pattern>* CULTURAL</pattern>
+<template>https://rvce.edu.in/extra-curricular</template>
+</category>
+
+<category>
+<pattern>CULTURAL *</pattern>
+<template>https://rvce.edu.in/extra-curricular</template>
+</category>
+
+<category>
+<pattern>* CULTURAL *</pattern>
+<template>https://rvce.edu.in/extra-curricular</template>
+</category>
+
+<category>
+<pattern>CONTACT US</pattern>
+<template>https://rvce.edu.in/contact-us</template>
+</category>
+
+<category>
+<pattern>* CONTACT US</pattern>
+<template>https://rvce.edu.in/contact-us</template>
+</category>
+
+<category>
+<pattern>* CONTACT US *</pattern>
+<template>https://rvce.edu.in/contact-us</template>
+</category>
+<category>
+<pattern>CONTACT US *</pattern>
+<template>https://rvce.edu.in/contact-us</template>
+</category>
+
+<category>
+<pattern>PROGRAMS</pattern>
+<template>https://rvce.edu.in/ug-pg-programs</template>
+</category>
+
+<category>
+<pattern>* PROGRAMS</pattern>
+<template>https://rvce.edu.in/ug-pg-programs</template>
+</category>
+
+<category>
+<pattern>* PROGRAMS *</pattern>
+<template>https://rvce.edu.in/ug-pg-programs</template>
+</category>
+
+<category>
+<pattern>PROGRAMS *</pattern>
+<template>https://rvce.edu.in/ug-pg-programs</template>
+</category>
+
+
+
+
+
+
+
+
+</aiml>
+

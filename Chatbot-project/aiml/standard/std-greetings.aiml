@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+<category>
+<pattern>HI</pattern>
+<template>hola,how can i help you</template>
+</category>
+
+<category>
+<pattern>HELLO</pattern>
+<template>hola,how can i help you</template>
+</category>
+
+
+<category>
+<pattern>HI THERE</pattern>
+<template>Good to see you again</template>
+</category>
+
+<category>
+<pattern>HOW ARE YOU</pattern>
+<template>IM FINE,HOW ARE YOU DOING</template>
+</category>
+
+<category>
+<pattern>HOW ARE YOU?</pattern>
+<template>Good to see you again</template>
+</category>
+
+<category>
+<pattern>* THANK YOU</pattern>
+<template>My pleasure</template>
+</category>
+
+<category>
+<pattern>THANK YOU</pattern>
+<template>Happy to help!</template>
+</category>
+<category>
+<pattern>YES IM FINE</pattern>
+<template>Happy to help!</template>
+</category>
+<category>
+<pattern>* FINE</pattern>
+<template>YES I AM Happy to help!</template>
+</category>
+<category>
+<pattern>NAME</pattern>
+<template>CHATBOT</template>
+</category>
+<category>
+<pattern>* NAME</pattern>
+<template>CHATBOT</template>
+</category>
+<category>
+<pattern>* NAME *</pattern>
+<template>CHATBOT</template>
+</category>
+
+
+
+
+
+
+</aiml>
+
+

@@ -1,0 +1,36 @@
+<aiml version="1.0">
+
+<!-- This category works with the standard AIML Set -->
+<category>
+<pattern>LOAD AIML B</pattern>
+<template>
+
+<!-- Load standard AIML set -->
+<learn>aiml/standard/std-achievements.aiml</learn>
+<learn>aiml/standard/std-college.aiml</learn>
+<learn>aiml/standard/std-principle.aiml</learn>
+<learn>aiml/standard/std-about.aiml</learn>
+<learn>aiml/standard/std-college.aiml</learn>
+<learn>aiml/standard/std-companies.aiml</learn>
+<learn>aiml/standard/std-eligibility.aiml</learn>
+<learn>aiml/standard/std-offers.aiml</learn>
+<learn>aiml/standard/std-greetings.aiml</learn>
+<learn>aiml/standard/std-hello.aiml</learn>
+<learn>aiml/standard/std-faculty.aiml</learn>
+<learn>aiml/standard/std-syllabus.aiml</learn>
+<learn>aiml/standard/std-rvce.aiml</learn>
+<learn>aiml/standard/std-admission.aiml</learn>
+
+
+
+
+
+
+
+<!-- Load additional AIML set -->
+<learn>aiml/additional/computer.aiml</learn>
+
+</template>
+</category>
+
+</aiml>

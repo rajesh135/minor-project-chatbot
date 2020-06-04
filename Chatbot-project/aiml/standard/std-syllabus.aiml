@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+<category>
+<pattern>SEMESTER 1</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+<category>
+<pattern>SUBJECTS FOR SEMESTER 1</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR SEM 1</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 1 SUBJECTS</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 1 SUBJECTS *</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR SEM 1</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR SEM 1 *</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>SUBJECTS 1 SUBJECTS</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR SEMESTER 1</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR SEM 1</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR SEM 1 *</pattern>
+<template>Discrete Mathematics,Computer Organization and Architecture,Data Structures using C,Object Oriented Programming,Web Programming</template>
+</category>
+
+<category>
+<pattern>SEMESTER 2</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>SEMESTER 2 SUBJECTS</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 2 SUBJECTS</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 2 *</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR SEMESTER 2</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+<category>
+<pattern>2ND SEMESTER SUBJECTS</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>*2ND SEMESTER SUBJECTS</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>2ND SEM SUBJECTS</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>* 2ND SEM SUBJECTS</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>* 2ND SEM SUBJECTS *</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 2ND SEM</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 2ND SEM</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 2ND SEM *</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 2ND SEMESTER</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+<category>
+<pattern>* SUBJECTS FOR 2ND SEMESTER *</pattern>
+<template>Software Engineering,E-Commerce,Data Base Systems,Operating Systems,Java Programming</template>
+</category>
+
+
+
+<category>
+<pattern>SEMESTER 3</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>SEMESTER 3 SUBJECTS</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 3 SUBJECTS</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 3 *</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR SEMESTER 3</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+<category>
+<pattern>3RD SEMESTER SUBJECTS</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>* 3RD SEMESTER SUBJECTS</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>3RD SEM SUBJECTS</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>* 3RD SEM SUBJECTS</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>* 3RD SEM SUBJECTS *</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 3RD SEM</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 3RD SEM</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 3RD SEM *</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 3RD SEMESTER</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+<category>
+<pattern>* SUBJECTS FOR 3RD SEMESTER *</pattern>
+<template>Research Methodology,Analysis and Design of Algorithms,Computer Networks,Elective –I(Non-Relational Databases (NOSQL),Operations Research,Machine Learning),Elective-II (Content Management System,Advanced OOPS,Model View Controller Programming)</template>
+</category>
+
+<category>
+<pattern>SEMESTER 4</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>4th SEMESTER </pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>*4th sem *</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>SEMESTER 4 SUBJECTS</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 4 SUBJECTS</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 4 *</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR SEMESTER 4</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+<category>
+<pattern>4TH SEMESTER SUBJECTS</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>* 4TH SEMESTER SUBJECTS</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>4TH SEM SUBJECTS</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>* 4TH SEM SUBJECTS</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>* 4TH SEM SUBJECTS *</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 4TH SEM</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 4TH SEM</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 4TH SEM *</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 4TH SEMESTER</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+<category>
+<pattern>* SUBJECTS FOR 4TH SEMESTER *</pattern>
+<template>Software Testing,Modern Application Development,Elective-III(Information Retrieval,Pattern Recognition,Software Architecture),Elective-IV(Cyber Security,Soft Computing,Unified Modelling Language),Elective-V(Computer Graphics,Advanced Computer Networks,Enterprise Application Programming),Minor Project – I</template>
+</category>
+
+<category>
+<pattern>SEMESTER 5</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>SEMESTER 5 SUBJECTS</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 5 SUBJECTS</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 5 *</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR SEMESTER 5</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+<category>
+<pattern>5TH SEMESTER SUBJECTS</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>* 5TH SEMESTER SUBJECTS</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>5TH SEM SUBJECTS</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>* 5TH SEM SUBJECTS</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>* 5TH SEM SUBJECTS *</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 5TH SEM</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 5TH SEM</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 5TH SEM *</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 5TH SEMESTER</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+<category>
+<pattern>* SUBJECTS FOR 5TH SEMESTER *</pattern>
+<template>Software Project Management,Big Data Analytics,Elective – VI,Elective – VII (with Practice),Seminar-1,Minor Project – II</template>
+</category>
+
+<category>
+<pattern>SEMESTER 6</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>SEMESTER 6 SUBJECTS</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 6 SUBJECTS</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>* SEMESTER 6 *</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR SEMESTER 2</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+<category>
+<pattern>6TH SEMESTER SUBJECTS</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>* 6TH SEMESTER SUBJECTS</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>6TH SEM SUBJECTS</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>* 6TH SEM SUBJECTS</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>* 6TH SEM SUBJECTS *</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 6TH SEM</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 6TH SEM</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>* SUBJECTS FOR 6TH SEM *</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+<category>
+<pattern>SUBJECTS FOR 6TH SEMESTER</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+<category>
+<pattern>* SUBJECTS FOR 6TH SEMESTER *</pattern>
+<template>Project Viva,Seminar-2</template>
+</category>
+
+
+<category>
+<pattern>SYLLABUS</pattern>
+<template>https://rvce.edu.in//mca-course%20content</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS</pattern>
+<template>https://rvce.edu.in//mca-course%20content</template>
+</category>
+
+<category>
+<pattern>* SYLLABUS *</pattern>
+<template>https://rvce.edu.in//mca-course%20content</template>
+</category>
+
+
+<category>
+<pattern>MCA SYLLABUS</pattern>
+<template>https://rvce.edu.in//mca-course%20content</template>
+</category>
+
+
+
+</aiml>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+<category>
+<pattern>* MCA FEES</pattern>
+<template>3Lacks</template>
+</category>
+
+<category>
+<pattern>* MCA MANAGEMENT FEES</pattern>
+<template>6Lacks</template>
+</category>
+
+
+<category>
+<pattern>* MANAGEMENT FEES</pattern>
+<template>6Lacks</template>
+</category>
+
+
+<category>
+<pattern>* HOSTEL *</pattern>
+<template>1Lacks</template>
+</category>
+
+
+<category>
+<pattern>* MANAGEMENT *</pattern>
+<template>6Lacks</template>
+</category>
+
+
+
+<category>
+<pattern>MANAGEMENT</pattern>
+<template>6Lacks</template>
+</category>
+
+
+</aiml>

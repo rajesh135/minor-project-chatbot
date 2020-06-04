@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+<category>
+<pattern>RVCE ACHIEVEMENTS</pattern>
+<template>RVCE ranked 2nd among Technical Institutions selected for the World Bank supported TEQIP Phase II Sub Comp: 1.2, facilitated by MHRD GOI. World Bank supported TEQIP Phase II – centre of excellence in macroelectronics for 3 years (2015-2018).</template>
+</category>
+
+<category>
+<pattern>* ACHIEVEMENTS</pattern>
+<template>RVCE ranked 2nd among Technical Institutions selected for the World Bank supported TEQIP Phase II Sub Comp: 1.2, facilitated by MHRD GOI. World Bank supported TEQIP Phase II – Centre of Excellence in Macroelectronics for 3 years (2015-2018).</template>
+</category>
+
+<category>
+<pattern>* ACHIEVEMENTS *</pattern>
+<template>RVCE ranked 2nd among Technical Institutions selected for the World Bank supported TEQIP Phase II Sub Comp: 1.2, facilitated by MHRD GOI. World Bank supported TEQIP Phase II – Centre of Excellence in Macroelectronics for 3 years (2015-2018).</template>
+</category>
+
+<category>
+<pattern>* ACHIEVEMENTS *</pattern>
+<template>RVCE ranked 2nd among Technical Institutions selected for the World Bank supported TEQIP Phase II Sub Comp: 1.2, facilitated by MHRD GOI. World Bank supported TEQIP Phase II – Centre of Excellence in Macroelectronics for 3 years (2015-2018).</template>
+</category>
+
+
+<category>
+<pattern>WHAT ARE THE ACHIEVEMENTS OF RVCE?</pattern>
+<template>RVCE ranked 2nd among Technical Institutions selected for the World Bank supported TEQIP Phase II Sub Comp: 1.2, facilitated by MHRD GOI. World Bank supported TEQIP Phase II – Centre of Excellence in Macroelectronics for 3 years (2015-2018).</template>
+</category>
+</aiml>

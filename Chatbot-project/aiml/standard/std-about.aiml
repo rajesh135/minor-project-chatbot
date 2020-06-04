@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+
+<category>
+<pattern>* ABOUT COLLEGE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+
+<category>
+<pattern>ABOUT COLLEGE *</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>* ABOUT COLLEGE *</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>ABOUT COLLEGE?</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>ABOUT R V COLLEGE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>ABOUT R V COLLEGE?</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>INFORMATION ABOUT COLLEGE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>SAY ABOUT COLLEGE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>TELL ME ABOUT COLLEGE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>TELL ME ABOUT COLLEGE?</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>ABOUT R V</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final sem. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>ABOUT RVCE COLLEGE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>ABOUT RVCE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>RV</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>RVCE COLLEGE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>RVCE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+<category>
+<pattern>MY COLLEGE</pattern>
+<template>Started in the year 1997","Affiliated to Visvesvaraya Technological University, Belagavi","100% placement opportunities to the students and have a track record of 80% placement in the past three years and 96% internships during the final semester. Salary package of the students is around 6.5 lakh average per annum and maximum is 25 lakh in the year 2019-20 ongoing placement activity.</template>
+</category>
+
+</aiml>

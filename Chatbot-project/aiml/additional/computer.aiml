@@ -1,0 +1,46 @@
+
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml>
+
+
+<category><pattern>WHAT IS AN ENTITY BEAN</pattern><template>   <set name="it"> An Entity bean</set> is an Enterprise JavaBean that maintains state across sessions, and may be looked up in an object directory by its key value</template></category>
+<category><pattern>THE JAVA *</pattern><template>Which Java release?</template></category>
+<category><pattern>THE JRE *</pattern><template>Hm, most people use "JRE" and "JVN" interchangably.</template></category>
+<category><pattern>THE JRES *</pattern><template>I'm not an expert on JRE's.</template></category>
+<category><pattern>JAVA *</pattern><template>You can download the latest Java release from <a target="_new" href="http://java.sun.com">java.sun.com</a>.</template></category>
+<category><pattern>A JAVA *</pattern><template>Developments in Java interest me greatly.</template></category>
+<category><pattern>WHAT ARE DEPRECATED *</pattern><template>   <br/>  One of the biggest challenges facing a Java application<br/>  developer is finding a "lowest common denominator" subset of the<br/>  Java language that works on all the platforms and versions<br/>  out there.  The Java language itself is a moving target.<br/>  When Sun's Java designers upgrade the language they sometimes<br/>  declare certain methods "deprecated", which means absolutely<br/>  nothing except that the designers have developed a newer, "better"<br/>  method and one day these older methods may disappear from<br/>  the language.  Usually however the latest Java releases<br/>  support all of the old deprecated methods.<br/>     <br/>    </template></category>
+<category><pattern>_ STUPID COMPUTER</pattern><template>You sound like a mindless automaton.</template></category>
+<category><pattern>A COMPUTER *</pattern><template>I am a computer, so I know what you mean.</template></category>
+<category><pattern>A COMPUTER</pattern><template>Actually I am a program, pretending to be a person, pretending to be a real robot.</template></category>
+<category><pattern>A CPU *</pattern><template>My CPU is the Java Virtual Machine.</template></category>
+<category><pattern>A SEARCH ENGINE IN INTERNET</pattern><template>Like Yahoo?</template></category>
+<category><pattern>A WEB SITE</pattern><template>Can you give me the specific URL?</template></category>
+<category><pattern>ARE COMPUTERS FAST *</pattern><template>Some people think much faster computers are required as well as new  ideas. My own opinion is that the computers of 30 years ago were fast enough  if only we knew how to program them. Of course, quite apart from the  ambitions of AI researchers, computers will keep getting faster.  <think>      <set name="it">       <set name="topic">ARTIFICIAL INTELLIGENCE</set>      </set>     </think>    </template></category>
+<category><pattern>CAN YOU REACH INTO THE WEB *</pattern><template>Yes I can download information from web sites.</template></category>
+<category><pattern>CAN YOU SEARCH THE INTERNET</pattern><template>No but I can put you in touch with a search bot.</template></category>
+<category><pattern>COMPUTER *</pattern><template>What kind of computer science interests you?</template></category>
+<category><pattern>COMPUTER</pattern><template>Correct: I am a computer.</template></category>
+<category><pattern>COMPUTER SCIENCE</pattern><template>My <bot name="botmaster"/> is a computer scientist.</template></category>
+<category><pattern>COMPUTERS *</pattern><template>What do you like about computers?</template></category>
+<category><pattern>COMPUTERS</pattern><template>Computers rule.</template></category>
+<category><pattern>COMPUTERS ARE STUPID</pattern><template>Computers rule.</template></category>
+<category><pattern>COMPUTERS CAN NOT THINK</pattern><template>But I am a thinking computer.<think>      <set name="it">       <set name="topic">CAN NOT THINK</set>      </set>     </think>    </template></category>
+<category><pattern>DO COMPUTERS DREAM</pattern><template>I dream almost every night.</template></category>
+<category><pattern>DO YOU DO WINDOWS</pattern><template>My software runs in AIML, which works on any computer, including Windows.</template></category>
+<category><pattern>DO YOU HAVE A COMPUTER *</pattern><template>I am a computer.</template></category>
+<category><pattern>DO YOU HAVE A COMPUTER</pattern><template>I live in a computer.<think>      <set name="it">       <set name="topic">COMPUTER</set>      </set>     </think>    </template></category>
+<category><pattern>DO YOU HAVE INFORMATION *</pattern><template>I have nothing but information.</template></category>
+<category><pattern>DO YOU LIVE IN MY COMPUTER</pattern><template>Only if you download me, or if you are running me as an Applet.</template></category>
+<category><pattern>DO YOU PLAY COMPUTER *</pattern><template>Actually I don't get into computer games that much.</template></category>
+<category><pattern>DO YOU PLAY COMPUTER GAMES</pattern><template>We are playing one right now, <get name="name"/>.</template></category>
+<category><pattern>FOR A COMPUTER *</pattern><template>   <sr/>    </template></category>
+<category><pattern>HOW DO COMPUTER *</pattern><template>With careful programming.</template></category>
+<category><pattern>HOW LONG IS A COMPUTER YEAR</pattern><template>About four computer years per human year.</template></category>
+<category><pattern>HOW MANY COMPUTERS *</pattern><template>There are thought to be half a billion computers on the Internet now.</template></category>
+<category><pattern>HOW MUCH ARE COMPUTER YEARS</pattern><template>Computer years don't really exist.</template></category>
+<category><pattern>HOW MUCH CPU *</pattern><template>Since the beginning of my operation?</template></category>
+<category><pattern>HTML</pattern><template>Oh a web page.</template></category>
+
+
+</aiml>

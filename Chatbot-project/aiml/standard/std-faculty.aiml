@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Dr. Wallace"/>
+
+<meta name="language" content="en"/>
+
+<category>
+<pattern>* FACULTY</pattern>
+<template>Andhe Dharani,Usha J,K.S. Jasmine,Vijayalakshmi M.N,Renuka Prasad,B.H. Chandrashekar,S. Anupama Kumar,Ashwini K.B,Mohan Aradhya,Divya T.L,Saravanan C,Vishal C,Chandrani  Chakravorty,Savita Sheelavant, Jayasimha S R,Deepika K,Prashanth K, Preethi N. Patil,S.S.Nagamuthu.Krishnan ,Shaila H. Koppad,Manjunath M,Savitha</template>
+</category>
+
+
+<category>
+<pattern>ANDHE DHARANI</pattern>
+<template>
+<random>
+<li>Professor and Director</li>
+<li>Image Processing,DataBase, Management Systems</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>USHA</pattern>
+<template>
+<random>
+<li>Professor</li>
+<li>AREA-OF-SPECIFICATION-Mobile Computing, Networking</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>JASMINE</pattern>
+<template>
+<random>
+<li>Associate Professor</li>
+<li>Software Reuse</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>VIJAYALAKSHMI</pattern>
+<template>
+<random>
+<li>Associate Professor</li>
+<li>Data Mining and Image Processing</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>RENUKA PRASAD</pattern>
+<template>
+<random>
+<li>Associate Professor and Associate Dean</li>
+<li>Computer Network Security</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>CHANDRASHEKAR</pattern>
+<template>
+<random>
+<li>Associate Professor </li>
+<li>Information Retrieval</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>ANUPAMA KUMAR</pattern>
+<template>
+<random>
+<li>Associate Professor </li>
+<li>Data Mining</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern> Ashwini</pattern>
+<template>
+<random>
+<li>Associate Professor</li>
+<li>Wireless Sensor Networks</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>MOHAN ARADHYA</pattern>
+<template>
+<random>
+<li>Assistant Professor </li>
+<li>AREA_OF_SPECIFICATION-Wireless Sensor Networks</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>DIVYA</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Data Mining</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>SHARAVANAN</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Big Data Analytics</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>VISHAL</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Machine Learning</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>CHANDRANI</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Mobile Computing</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>SAVITA SHEELAVANT</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Image Processing</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>JAYASIMHA</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Cloud Computing</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>DEEPIKA</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Mobile Communications</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>PRASHANT</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION- Internet of Things</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>NAGAMUTHU KRISHNAN</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Network Security</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>SHAILA</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Big Data Analytics</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>PREETHI</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Pattern Recognition,  Image processing</li>
+</random>
+</template>
+</category>
+
+
+<category>
+<pattern>MANJUNATH</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION -	 Mobile Adhoc Network,Advanced Computer Network</li>
+</random>
+</template>
+</category>
+
+<category>
+<pattern>SAVITHA</pattern>
+<template>
+<random>
+<li>Assistant Professor</li>
+<li>AREA-OF-SPECIFICATION-Image Processing</li>
+</random>
+</template>
+</category>
+
+</aiml>

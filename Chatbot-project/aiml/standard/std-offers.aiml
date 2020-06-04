@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<aiml version="1.0">
+<meta name="author" content="Jon Baer"/>
+<meta name="language" content="en"/>
+<category>
+<pattern>TOTAL NUMBER OF OFFERS</pattern>
+<template>145 No’s</template>
+</category>
+
+<category>
+<pattern>* OFFERS</pattern>
+<template>145 No’s</template>
+</category>
+
+<category>
+<pattern>STUDENT WHO GOT HIGHEST PACKAGE</pattern>
+<template>vikas ranjan</template>
+</category>
+<category>
+<pattern>STUDENT WHO GOT HIGHEST PACKAGE *</pattern>
+<template>vikas ranjan</template>
+</category>
+
+
+
+
+<category>
+<pattern>* OFFERS *</pattern>
+<template>145 in Numbers</template>
+</category>
+
+<category>
+<pattern>OFFERS *</pattern>
+<template>145 in numbers</template>
+</category>
+
+<category>
+<pattern>* HIGHEST PACKAGE</pattern>
+<template>22 Lacks Per Annum</template>
+</category>
+<category>
+<pattern>* HIGHEST PACKAGE *</pattern>
+<template>22 Lacks Per Annum</template>
+</category>
+<category>
+<pattern>HIGHEST PACKAGE</pattern>
+<template>22 Lacks Per Annum</template>
+</category>
+
+
+
+<category>
+<pattern>AVERAGE PACKAGE</pattern>
+<template>6.5 Lacks Per Annum</template>
+</category>
+<category>
+<pattern>* AVERAGE PACKAGE</pattern>
+<template>6.5 Lacks Per Annum</template>
+</category>
+
+<category>
+<pattern>*AVERAGE PACKAGE *</pattern>
+<template>6.5 Lacks Per Annum</template>
+</category>
+
+
+
+<category>
+<pattern>INTERNATIONAL PLACEMENTS</pattern>
+<template>05 in numbers</template>
+</category>
+
+<category>
+<pattern>HOD</pattern>
+<template>Andhe Dharani</template>
+</category>
+<category>
+<pattern>* HOD</pattern>
+<template>Andhe Dharani</template>
+</category>
+<category>
+<pattern>* HOD *</pattern>
+<template>Andhe Dharani</template>
+</category>
+
+
+
+<category>
+<pattern>HOD NAME</pattern>
+<template>Andhe Dharani</template>
+</category>
+
+<category>
+<pattern>MCA DEPARTMENT HOD</pattern>
+<template>Andhe Dharani</template>
+</category>
+
+<category>
+<pattern>MCA DEPARTMENT HOD NAME</pattern>
+<template>Andhe Dharani</template>
+</category>
+
+<category>
+<pattern>MCA DEPARTMENT HOD NAME?</pattern>
+<template>Andhe Dharani</template>
+</category>
+
+<category>
+<pattern>HOD NAME?</pattern>
+<template>Andhe Dharani</template>
+</category>
+
+
+<category>
+<pattern>*</pattern>
+<template>
+<random>
+<li>SORRY,CAN'T UNDERSTAND YOU</li>
+<li>Please give me more info</li>
+<li>Not sure I understand</li>
+
+</random>
+</template>
+</category>
+
+</aiml>
+
